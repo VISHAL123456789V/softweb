@@ -1,8 +1,8 @@
 # Ex.07 Software Product Company Website
 
 ## Date:08/05/2023
-## Name: Suriya Pravin M
-## Reg.No: 212223230223
+## NAME: VISHAL T
+## REG.NO: 212223100060
 ## AIM:
 To develop a static company website to display the softwares and services provided by the company.
 
